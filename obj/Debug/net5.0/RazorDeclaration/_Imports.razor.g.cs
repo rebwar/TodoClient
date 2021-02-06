@@ -13,110 +13,70 @@ namespace TodoClient
     using System.Threading.Tasks;
     using Microsoft.AspNetCore.Components;
 #nullable restore
-<<<<<<< HEAD
-#line 1 "c:\Users\Rebwa\Desktop\Todo Project\TodoClient\_Imports.razor"
-=======
-#line 1 "D:\Projects\TodoClient\_Imports.razor"
->>>>>>> 4be5fef344b60c4fb5298daa33becf388f7817c7
+#line 1 "C:\Users\Rebwa\Desktop\Todo Project\TodoClient\_Imports.razor"
 using System.Net.Http;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-<<<<<<< HEAD
-#line 2 "c:\Users\Rebwa\Desktop\Todo Project\TodoClient\_Imports.razor"
-=======
-#line 2 "D:\Projects\TodoClient\_Imports.razor"
->>>>>>> 4be5fef344b60c4fb5298daa33becf388f7817c7
+#line 2 "C:\Users\Rebwa\Desktop\Todo Project\TodoClient\_Imports.razor"
 using System.Net.Http.Json;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-<<<<<<< HEAD
-#line 3 "c:\Users\Rebwa\Desktop\Todo Project\TodoClient\_Imports.razor"
-=======
-#line 3 "D:\Projects\TodoClient\_Imports.razor"
->>>>>>> 4be5fef344b60c4fb5298daa33becf388f7817c7
+#line 3 "C:\Users\Rebwa\Desktop\Todo Project\TodoClient\_Imports.razor"
 using Microsoft.AspNetCore.Components.Forms;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-<<<<<<< HEAD
-#line 4 "c:\Users\Rebwa\Desktop\Todo Project\TodoClient\_Imports.razor"
-=======
-#line 4 "D:\Projects\TodoClient\_Imports.razor"
->>>>>>> 4be5fef344b60c4fb5298daa33becf388f7817c7
+#line 4 "C:\Users\Rebwa\Desktop\Todo Project\TodoClient\_Imports.razor"
 using Microsoft.AspNetCore.Components.Routing;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-<<<<<<< HEAD
-#line 5 "c:\Users\Rebwa\Desktop\Todo Project\TodoClient\_Imports.razor"
-=======
-#line 5 "D:\Projects\TodoClient\_Imports.razor"
->>>>>>> 4be5fef344b60c4fb5298daa33becf388f7817c7
+#line 5 "C:\Users\Rebwa\Desktop\Todo Project\TodoClient\_Imports.razor"
 using Microsoft.AspNetCore.Components.Web;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-<<<<<<< HEAD
-#line 6 "c:\Users\Rebwa\Desktop\Todo Project\TodoClient\_Imports.razor"
-=======
-#line 6 "D:\Projects\TodoClient\_Imports.razor"
->>>>>>> 4be5fef344b60c4fb5298daa33becf388f7817c7
+#line 6 "C:\Users\Rebwa\Desktop\Todo Project\TodoClient\_Imports.razor"
 using Microsoft.AspNetCore.Components.Web.Virtualization;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-<<<<<<< HEAD
-#line 7 "c:\Users\Rebwa\Desktop\Todo Project\TodoClient\_Imports.razor"
-=======
-#line 7 "D:\Projects\TodoClient\_Imports.razor"
->>>>>>> 4be5fef344b60c4fb5298daa33becf388f7817c7
+#line 7 "C:\Users\Rebwa\Desktop\Todo Project\TodoClient\_Imports.razor"
 using Microsoft.AspNetCore.Components.WebAssembly.Http;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-<<<<<<< HEAD
-#line 8 "c:\Users\Rebwa\Desktop\Todo Project\TodoClient\_Imports.razor"
-=======
-#line 8 "D:\Projects\TodoClient\_Imports.razor"
->>>>>>> 4be5fef344b60c4fb5298daa33becf388f7817c7
+#line 8 "C:\Users\Rebwa\Desktop\Todo Project\TodoClient\_Imports.razor"
 using Microsoft.JSInterop;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-<<<<<<< HEAD
-#line 9 "c:\Users\Rebwa\Desktop\Todo Project\TodoClient\_Imports.razor"
-=======
-#line 9 "D:\Projects\TodoClient\_Imports.razor"
->>>>>>> 4be5fef344b60c4fb5298daa33becf388f7817c7
+#line 9 "C:\Users\Rebwa\Desktop\Todo Project\TodoClient\_Imports.razor"
 using TodoClient;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-<<<<<<< HEAD
-#line 10 "c:\Users\Rebwa\Desktop\Todo Project\TodoClient\_Imports.razor"
-=======
-#line 10 "D:\Projects\TodoClient\_Imports.razor"
->>>>>>> 4be5fef344b60c4fb5298daa33becf388f7817c7
+#line 10 "C:\Users\Rebwa\Desktop\Todo Project\TodoClient\_Imports.razor"
 using TodoClient.Shared;
 
 #line default

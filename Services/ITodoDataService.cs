@@ -7,7 +7,9 @@ namespace TodoClient.Services
     public interface ITodoDataService
     {
         Task<IEnumerable<ItemData>> GetAllItems();
-
         Task<ItemData> GetItemDetail(int id);
+        Task<ItemData> AddItem(ItemData item);
+        Task UpdateItem(ItemData item);
+        Task DeleteItem(int id);
     }
 }
