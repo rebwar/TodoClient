@@ -8,6 +8,59 @@
   "ProjectWorkspaceState": {
     "TagHelpers": [
       {
+        "HashCode": 1193409321,
+        "Kind": "Components.Component",
+        "Name": "TodoClient.Pages.ItemDetail",
+        "AssemblyName": "TodoClient",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "ItemDetail"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Id",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Id"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "TodoClient.Pages.ItemDetail"
+        }
+      },
+      {
+        "HashCode": 1910107392,
+        "Kind": "Components.Component",
+        "Name": "TodoClient.Pages.ItemDetail",
+        "AssemblyName": "TodoClient",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "TodoClient.Pages.ItemDetail"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Id",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Id"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "TodoClient.Pages.ItemDetail",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": -503889302,
         "Kind": "Components.Component",
         "Name": "TodoClient.Pages.ItemOverView",
@@ -41,6 +94,59 @@
         }
       },
       {
+        "HashCode": -1246327111,
+        "Kind": "Components.Component",
+        "Name": "TodoClient.Pages.ItemEdit",
+        "AssemblyName": "TodoClient",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "ItemEdit"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Id",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Id"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "TodoClient.Pages.ItemEdit"
+        }
+      },
+      {
+        "HashCode": -2080037633,
+        "Kind": "Components.Component",
+        "Name": "TodoClient.Pages.ItemEdit",
+        "AssemblyName": "TodoClient",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "TodoClient.Pages.ItemEdit"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Id",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Id"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "TodoClient.Pages.ItemEdit",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": -1304341669,
         "Kind": "Components.Component",
         "Name": "TodoClient.Pages.Index",
@@ -70,92 +176,6 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "TodoClient.Pages.Index",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -702270672,
-        "Kind": "Components.Component",
-        "Name": "TodoClient.App",
-        "AssemblyName": "TodoClient",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "App"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "TodoClient.App"
-        }
-      },
-      {
-        "HashCode": -1081181564,
-        "Kind": "Components.Component",
-        "Name": "TodoClient.App",
-        "AssemblyName": "TodoClient",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "TodoClient.App"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "TodoClient.App",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 1782935638,
-        "Kind": "Components.Component",
-        "Name": "TodoClient.Shared.SurveyPrompt",
-        "AssemblyName": "TodoClient",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "SurveyPrompt"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Title",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Title"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "TodoClient.Shared.SurveyPrompt"
-        }
-      },
-      {
-        "HashCode": 742585510,
-        "Kind": "Components.Component",
-        "Name": "TodoClient.Shared.SurveyPrompt",
-        "AssemblyName": "TodoClient",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "TodoClient.Shared.SurveyPrompt"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Title",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Title"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "TodoClient.Shared.SurveyPrompt",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -285,6 +305,92 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "TodoClient.Shared.NavMenu",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1782935638,
+        "Kind": "Components.Component",
+        "Name": "TodoClient.Shared.SurveyPrompt",
+        "AssemblyName": "TodoClient",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "SurveyPrompt"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Title",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Title"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "TodoClient.Shared.SurveyPrompt"
+        }
+      },
+      {
+        "HashCode": 742585510,
+        "Kind": "Components.Component",
+        "Name": "TodoClient.Shared.SurveyPrompt",
+        "AssemblyName": "TodoClient",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "TodoClient.Shared.SurveyPrompt"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Title",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Title"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "TodoClient.Shared.SurveyPrompt",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -702270672,
+        "Kind": "Components.Component",
+        "Name": "TodoClient.App",
+        "AssemblyName": "TodoClient",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "App"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "TodoClient.App"
+        }
+      },
+      {
+        "HashCode": -1081181564,
+        "Kind": "Components.Component",
+        "Name": "TodoClient.App",
+        "AssemblyName": "TodoClient",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "TodoClient.App"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "TodoClient.App",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -12972,6 +13078,11 @@
     {
       "FilePath": "c:\\Users\\Rebwa\\Desktop\\Todo Project\\TodoClient\\Shared\\MainLayout.razor",
       "TargetPath": "Shared\\MainLayout.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\Rebwa\\Desktop\\Todo Project\\TodoClient\\Pages\\ItemEdit.razor",
+      "TargetPath": "Pages\\ItemEdit.razor",
       "FileKind": "component"
     },
     {
