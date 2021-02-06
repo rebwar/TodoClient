@@ -1,4 +1,4 @@
 ﻿<StaticWebAssets Version="1.0">
-  <ContentRoot BasePath="/" Path="C:\Users\Rebwa\Desktop\Todo Project\TodoClient\bin\Debug\net5.0\wwwroot\" />
-  <ContentRoot BasePath="/" Path="C:\Users\Rebwa\Desktop\Todo Project\TodoClient\obj\Debug\net5.0\scopedcss\bundle\" />
+  <ContentRoot BasePath="/" Path="D:\Projects\TodoClient\bin\Debug\net5.0\wwwroot\" />
+  <ContentRoot BasePath="/" Path="D:\Projects\TodoClient\obj\Debug\net5.0\scopedcss\bundle\" />
 </StaticWebAssets>
