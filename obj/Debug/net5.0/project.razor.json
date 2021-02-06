@@ -74,55 +74,88 @@
         }
       },
       {
-        "HashCode": 1193409321,
+        "HashCode": -702270672,
         "Kind": "Components.Component",
-        "Name": "TodoClient.Pages.ItemDetail",
+        "Name": "TodoClient.App",
         "AssemblyName": "TodoClient",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "ItemDetail"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Id",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Id"
-            }
+            "TagName": "App"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "TodoClient.Pages.ItemDetail"
+          "Common.TypeName": "TodoClient.App"
         }
       },
       {
-        "HashCode": 1910107392,
+        "HashCode": -1081181564,
         "Kind": "Components.Component",
-        "Name": "TodoClient.Pages.ItemDetail",
+        "Name": "TodoClient.App",
         "AssemblyName": "TodoClient",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "TodoClient.Pages.ItemDetail"
+            "TagName": "TodoClient.App"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "TodoClient.App",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1782935638,
+        "Kind": "Components.Component",
+        "Name": "TodoClient.Shared.SurveyPrompt",
+        "AssemblyName": "TodoClient",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "SurveyPrompt"
           }
         ],
         "BoundAttributes": [
           {
             "Kind": "Components.Component",
-            "Name": "Id",
+            "Name": "Title",
             "TypeName": "System.String",
             "Metadata": {
-              "Common.PropertyName": "Id"
+              "Common.PropertyName": "Title"
             }
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "TodoClient.Pages.ItemDetail",
+          "Common.TypeName": "TodoClient.Shared.SurveyPrompt"
+        }
+      },
+      {
+        "HashCode": 742585510,
+        "Kind": "Components.Component",
+        "Name": "TodoClient.Shared.SurveyPrompt",
+        "AssemblyName": "TodoClient",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "TodoClient.Shared.SurveyPrompt"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Title",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Title"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "TodoClient.Shared.SurveyPrompt",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -223,59 +256,6 @@
         }
       },
       {
-        "HashCode": 1782935638,
-        "Kind": "Components.Component",
-        "Name": "TodoClient.Shared.SurveyPrompt",
-        "AssemblyName": "TodoClient",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "SurveyPrompt"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Title",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Title"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "TodoClient.Shared.SurveyPrompt"
-        }
-      },
-      {
-        "HashCode": 742585510,
-        "Kind": "Components.Component",
-        "Name": "TodoClient.Shared.SurveyPrompt",
-        "AssemblyName": "TodoClient",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "TodoClient.Shared.SurveyPrompt"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Title",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Title"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "TodoClient.Shared.SurveyPrompt",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": -579552054,
         "Kind": "Components.Component",
         "Name": "TodoClient.Shared.NavMenu",
@@ -305,39 +285,6 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "TodoClient.Shared.NavMenu",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -702270672,
-        "Kind": "Components.Component",
-        "Name": "TodoClient.App",
-        "AssemblyName": "TodoClient",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "App"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "TodoClient.App"
-        }
-      },
-      {
-        "HashCode": -1081181564,
-        "Kind": "Components.Component",
-        "Name": "TodoClient.App",
-        "AssemblyName": "TodoClient",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "TodoClient.App"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "TodoClient.App",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
