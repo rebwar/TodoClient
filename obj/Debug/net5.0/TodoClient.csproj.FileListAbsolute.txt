@@ -1268,3 +1268,5 @@ D:\Projects\TodoClient\obj\Debug\net5.0\TodoClient.csproj.CopyComplete
 D:\Projects\TodoClient\obj\Debug\net5.0\TodoClient.dll
 D:\Projects\TodoClient\obj\Debug\net5.0\ref\TodoClient.dll
 D:\Projects\TodoClient\obj\Debug\net5.0\TodoClient.pdb
+D:\Projects\TodoClient\obj\Debug\net5.0\RazorDeclaration\Pages\ItemEdit.razor.g.cs
+D:\Projects\TodoClient\obj\Debug\net5.0\Razor\Pages\ItemEdit.razor.g.cs

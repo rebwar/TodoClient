@@ -8,8 +8,11 @@ namespace TodoClient.Pages
 {
     public partial class ItemEdit
     {
-        [Inject]
+        protected string Message=string.Empty;
 
+        protected bool Saved;
+
+        [Inject]
         public ITodoDataService TodoDataService { get; set; }
 
         [Parameter]

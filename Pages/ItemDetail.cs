@@ -11,7 +11,7 @@ namespace TodoClient.Pages
         [Parameter]
         public string Id { get; set; }
 
-        public ItemData Item { get; set; }=new ItemData();
+        public ItemData Item { get; set; } = new ItemData();
 
         [Inject]
         public ITodoDataService TodoDataService { get; set; }
