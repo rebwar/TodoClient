@@ -1200,11 +1200,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Rebwa\\Desktop\\Todo Project\\TodoClient\\TodoClient.csproj",
+      "projectUniqueName": "D:\\Projects\\TodoClient\\TodoClient.csproj",
       "projectName": "TodoClient",
-      "projectPath": "C:\\Users\\Rebwa\\Desktop\\Todo Project\\TodoClient\\TodoClient.csproj",
+      "projectPath": "D:\\Projects\\TodoClient\\TodoClient.csproj",
       "packagesPath": "C:\\Users\\Rebwa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Rebwa\\Desktop\\Todo Project\\TodoClient\\obj\\",
+      "outputPath": "D:\\Projects\\TodoClient\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Rebwa\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1264,7 +1264,7 @@
         "downloadDependencies": [
           {
             "name": "Microsoft.NETCore.App.Runtime.browser-wasm",
-            "version": "[5.0.2, 5.0.2]"
+            "version": "[5.0.1, 5.0.1]"
           }
         ],
         "frameworkReferences": {
@@ -1272,7 +1272,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
       }
     },
     "runtimes": {
